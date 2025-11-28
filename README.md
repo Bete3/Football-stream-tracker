@@ -10,3 +10,5 @@
 # live game 
 <img width="931" height="402" alt="image" src="https://github.com/user-attachments/assets/840b100d-9f68-43ad-b364-d2175545b808" />
 
+# demo video
+https://www.awesomescreenshot.com/video/46893560?key=4840b4b0fe5050bbf42489745f1133a2
